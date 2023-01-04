@@ -1,5 +1,6 @@
 # Álgebra Lineal con `R` 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedritomelenas/R-algebra-lineal/HEAD)
 
 Este repositorio no pretende ser un manual de programación de `R`. Está orientado a introducir al alumno al lenguage `R` mediante la resolución de algunos problemas de Álgebra Lineal. Para ello se han creado una serie de blocs de `jupyter` que pretenden mostrar varios apectos y librerías de `R` que pueden ser utilizados para la resolución de problemas de Álgebra Lineal. 
 
