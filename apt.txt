@@ -3,3 +3,4 @@ tar
 binutils
 libnlopt-dev
 libgl1
+python-sympy
