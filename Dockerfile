@@ -15,8 +15,8 @@ RUN echo "Checking for 'apt.txt'..." \
         && apt-get clean > /dev/null \
         && rm -rf /var/lib/apt/lists/* \
         ; fi
-RUN pip install sympy 
 USER ${NB_USER}
+RUN pip install sympy 
 
 ## Run an install.R script, if it exists.
 RUN if [ -f install.R ]; then R --quiet -f install.R; fi
