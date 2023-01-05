@@ -1,0 +1,5 @@
+cmake
+tar
+binutils
+libnlopt-dev
+libgl1
