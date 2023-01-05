@@ -1,0 +1,5 @@
+install.packages("pracma")
+install.packages("matlib")
+install.packages("fractional")
+install.packages("numbers")
+install.packages("Ryacas")
