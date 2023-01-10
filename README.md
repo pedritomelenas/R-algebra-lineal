@@ -8,7 +8,7 @@ El primer documento por el que se debería empezar es el titulado [R-matrices.ip
 
 En el bloc [R-programacion-elemental.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/R-programacion-elemental.ipynb) se muestran los primeros pasos para usar condicionales, bucles y definir nuestras propias funciones en `R`. Anque no es estrictamente necesario para la el seguimiento del resto de los documentos de este repositorio, se recomienda su lectura.
 
-Los blocs con prefijo ALME contienen una serie de ejercicios propuestos por L. Merino y E. Santos en su [página de resolución de ejercicios tipo](https://www.ugr.es/~lmerino/ALME.html) de su libro [Álgebra Lineal con Métodos Elementales](https://www.amazon.es/%C3%81lgebra-lineal-m%C3%A9todos-elementales-GONZALEZ/dp/8497324811). Para la resolución de estos problemas se utilizarán las librerías `pracma`, `fractional`, `matlib`, `Ryacas`, entre otras. Los ejercicios están divididos en cuatro bloques.
+Los blocs con prefijo ALME contienen una serie de ejercicios propuestos por L. Merino y E. Santos en su [página de resolución de ejercicios tipo](https://www.ugr.es/~lmerino/ALME.html) de su libro [Álgebra Lineal con Métodos Elementales](https://www.amazon.es/%C3%81lgebra-lineal-m%C3%A9todos-elementales-GONZALEZ/dp/8497324811). Para la resolución de estos problemas se utilizarán las librerías `pracma`, `fractional`, `matlib`, `Ryacas`, entre otras. 
 
 - [ALME-sistemas-matrices-determinantes.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-sistemas-matrices-determinantes.ipynb) contiene   ejercicios relativos a transformaciones elementales por filas y columnas de una matriz, determinantes y sistemas de ecuaciones.
 
