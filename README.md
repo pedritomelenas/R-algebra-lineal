@@ -17,3 +17,8 @@ Este repositorio no pretende ser un manual de programación de `R`. Está orient
   - [ALME-aplicaciones-lineales.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-aplicaciones-lineales.ipynb) contiene ejercicios sobre expresiones matriciales de aplicaciones lineales.
 
   - [ALME-diagonalizacion.ipynb](https://github.com/pedritomelenas/R-algebra-lineal/blob/main/ALME-diagonalizacion.ipynb) contiene ejercicios sobre diagonalización de matrices.
+
+- Los siguientes blocs contienen ejemplos y ejercicos resueltos extraídos de [L. Merino, E. Santos, [[Álgebra Lineal con Métodos Elementales](https://www.amazon.es/%C3%81lgebra-lineal-m%C3%A9todos-elementales-GONZALEZ/dp/8497324811)] y de [I. Ojeda, J. Gago, [Métodos matemáticos para la Estadística](https://publicauex.unex.es/libro/metodos-matematicos-para-estadistica_135467/)].
+
+  - El bloc [Forma-Jordan.ipynb](http://localhost:8888/notebooks/Forma-Jordan.ipynb) contiene ejemplos de cálculo de la forma canónica de Jordan.
+  
